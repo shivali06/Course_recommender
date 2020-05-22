@@ -2,7 +2,7 @@
 A recommendation system that would provide list of computer science courses to a student based on his interest. This will help student to make right choice which best suites his/her.
 1. Start is the first command through which student will get to know what are the other commands for the course recommendation.
   - Below is the screenshot.
-  - ![start_command](link-to-image)
+  - ![start_command](start.png)
 2. To get course recommendation according to the semester, use “getsem” command. Give the answer in 1,2,3 and 4. In my database I have assigned semester to all courses.
 
   - Below is the screenshot.
